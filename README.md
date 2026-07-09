@@ -1,6 +1,10 @@
 # Hi there! 👋
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=250&section=header&text=Habiba%20Kumkum%20Mim%0AFront-End%20Developer&fontSize=40&fontColor=ffffff" width="100%" />
+[<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=220&section=header&text=Habiba%20Kumkum%20Mim&fontSize=45&fontColor=ffffff" width="100%"/>
+</p>
+
+<h2 align="center">Front-End Developer</h2>
 
 # Habiba Kumkum Mim
 
