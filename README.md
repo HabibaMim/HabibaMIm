@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=220&section=header&text=Mim%20Y&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 # Habiba Kumkum Mim
-# Front-End Developer
 
 ### Aspiring Front-End Developer
 
