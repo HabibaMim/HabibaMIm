@@ -13,14 +13,12 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-I'm an aspiring Front-End Developer passionate about building clean, responsive, and user-friendly web applications.
-
-I enjoy learning modern web technologies, building projects, and improving my problem-solving skills through continuous practice.
-
-I'm currently seeking opportunities to learn, contribute, and grow as a developer.
-
+- 💻 Aspiring Front-End Developer passionate about building clean, responsive, and user-friendly web applications.
+- 🌱 Continuously learning modern web technologies and expanding my development skills.
+- 🚀 Enjoy building real-world projects and improving my problem-solving skills through hands-on practice.
+- 🎯 Currently seeking opportunities to learn, contribute, and grow as a developer.
 ---
 
 ## 🚀 Current Activities
