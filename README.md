@@ -8,7 +8,7 @@
 <h2 align="center">
   Hi 👋, I'm Habiba Kumkum Mim
   <br>
-  Front-End Developer
+  <sub>Front-End Developer</sub>
 </h2>
 
 ---
