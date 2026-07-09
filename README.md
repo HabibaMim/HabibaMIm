@@ -54,11 +54,11 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HabibaMim">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/habibakumkum/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
