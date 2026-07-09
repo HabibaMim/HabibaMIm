@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Connect With Me
 
 <p>
   <a href="https://github.com/HabibaMim"><img src="https://skillicons.dev/icons?i=github" /></a>
