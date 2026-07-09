@@ -29,7 +29,7 @@
 
 ---
 
-## 💻 Skills
+## ✨ Skills
 
 ### Frontend
 
