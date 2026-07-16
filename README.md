@@ -8,14 +8,14 @@
 <h2 align="center">
   Hi 👋, I'm Habiba Kumkum Mim
   <br>
-  <sub>Front-End Developer</sub>
+  <sub>MERN Stack Developer</sub>
 </h2>
 
 ---
 
 ## 🌸 About Me
 
-- 💻 Aspiring Front-End Developer passionate about building clean, responsive, and user-friendly web applications.
+- 💻 MERN Stack Developer passionate about building clean, responsive, and user-friendly web applications.
 - 🌱 Continuously learning modern web technologies and expanding my development skills.
 - 🚀 Enjoy building real-world projects and improving my problem-solving skills through hands-on practice.
 - 🎯 Currently seeking opportunities to learn, contribute, and grow as a developer.
